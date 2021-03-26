@@ -1,0 +1,13 @@
+
+[{shop_url}] 
+
+Nowe działanie użytkownika
+
+{message}
+
+Imię: {firstname}
+Nazwisko: {lastname}
+Email: {email}
+
+{shop_name} [{shop_url}] powered
+by PrestaShop(tm) [http://www.prestashop.com/] 
