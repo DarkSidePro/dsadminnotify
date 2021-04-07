@@ -1,9 +1,0 @@
-
-[{shop_url}] 
-
-New customer
-
-You have new customer
-
-{shop_name} [{shop_url}] powered
-by PrestaShop(tm) [http://www.prestashop.com/] 
